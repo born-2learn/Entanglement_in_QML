@@ -1,2 +1,5 @@
-# Entaglement_in_QML
-This repo contains the code for the QOSF Project on "Effect of Entanglement on Model Training in QML"
+# Effect of Entanglement on Model Training in Quantum Machine Learning  
+
+>This repo contains the code for the project from QOSF(Quanutm Open Source Foundation) Mentorship Program.  
+> **Student:** Syed Farhan Ahmad  
+> **Mentor:** Amira Abbas
